@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding: 10px;
+    border: 3px solid #000;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.container:hover {
+    background-color: azure;
+}
