@@ -13,7 +13,39 @@ body {
 }
 
 .container:hover {
-    background-color: azure;
+    background-color: cadetblue;
+}
+
+.master_head {
+    display: flex;
+    align-items: center;
+}
+
+.master_img {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.master_img img{
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+}
+
+.master_h1 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.master_h1 h1 {
+    padding: 0;
+    margin: 0 auto;
+}
+
+.master_p {
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .container2 {
